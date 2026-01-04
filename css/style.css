@@ -1,10 +1,23 @@
 a {
     color: red ;
 }
+a:hover{
+    color: #EE2266;
+
+}
+a:active{
+    color: blue;
+}
 li{
-    color: blue ;
+    color: rgba(10,200,168,0.5) ;
 }
 li.first{
     color: green;
+}
+ul li{
+    color: blue;
+}
+ul>li{
+    color: red;
 }
 
