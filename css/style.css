@@ -4,3 +4,7 @@ a {
 li{
     color: blue ;
 }
+li.first{
+    color: green;
+}
+
